@@ -1,0 +1,14 @@
+.blue{color: blue;}
+.red{color: red;}
+.green{color: green;}
+.grey{color: grey;}
+.mad:hover{color: yellow;}
+.um:focus{color: red;}
+.om:hover{color: white;}
+.il:focus{color: green;}
+.ty:hover{color: gold;}
+.dif:last-child{color: blanchedalmond;}
+.ep:first-child{color: brown;}
+#yt:nth-child(2){color: black;}
+#jo:nth-child(1){color: rgb(96, 13, 121);}
+#te:nth-child(4){color: firebrick;}
