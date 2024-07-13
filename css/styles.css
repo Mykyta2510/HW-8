@@ -1,3 +1,17 @@
+#greycol{color: grey;}
+.yellow{color: yellow;}
+div:nth-child(5) > p {
+    color: red;
+}
+p:nth-child(7){
+    color: green;
+}
+h3:first-child{
+    color: pink;
+}
+
+/*Завдання 1*/
+
 .blue{color: blue;}
 .red{color: red;}
 .green{color: green;}
@@ -12,3 +26,4 @@
 #yt:nth-child(2){color: black;}
 #jo:nth-child(1){color: rgb(96, 13, 121);}
 #te:nth-child(4){color: firebrick;}
+/*Завдання 2*/
